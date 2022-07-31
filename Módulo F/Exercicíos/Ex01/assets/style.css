@@ -1,0 +1,37 @@
+body{
+    background-color: dodgerblue;
+    font: normal 15pt arial;
+    color: white;
+    /* text-align: center; */
+}
+h1, footer{
+    text-align: center;
+}
+h1{
+    margin: 10px auto 10px auto;
+}
+section{
+    border:none;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0, 0.37);
+    color: black;
+    margin: auto;
+    width: 500px;
+    padding: 8px 10px 8px 10px;
+}
+footer{
+    font-style: italic;
+    margin-top: 22.6px;
+    display: block;
+}
+p{
+    display: inline-block;
+}
+#area-result{
+    display: block;
+    width: 200px;
+}
+#end-result-area{
+    margin: 10px;
+}
